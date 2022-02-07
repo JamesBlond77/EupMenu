@@ -1,0 +1,7 @@
+EUP Menu 2.3.0.0 Changelog
+- Updated RPH dependency to 1.86.1288.16169 (minimum 0.37 required).
+- Updated RNUI dependency to 1.8.1 (minimum 1.8.1 required).
+- Updated menu for EUP 8.3.
+- Organized agencies into subdivisions, particularly those with larger amounts of outfits.
+- Added the ability to toggle DLC and install checking off in settings.ini.
+- Updated easter eggs.
